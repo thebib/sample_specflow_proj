@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProjectTemplate", "SpecFlowProjectTemplate\SpecFlowProjectTemplate.csproj", "{480039A4-3D01-4372-873F-D049F3A91D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480039A4-3D01-4372-873F-D049F3A91D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480039A4-3D01-4372-873F-D049F3A91D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480039A4-3D01-4372-873F-D049F3A91D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480039A4-3D01-4372-873F-D049F3A91D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
