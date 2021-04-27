@@ -30,7 +30,7 @@ namespace SpecFlowProjectTemplate.Hooks
         public static void loadReporter(FeatureContext context, IObjectContainer container)
         {
             var config = container.Resolve<IConfiguration>();
-            if (config["Reporter"] == "extent")
+            if (config["appSettings:Reporter"] == "extent")
             {
                 container.RegisterInstanceAs<IReportHelper>(new ExtentReportHelper());
                 ExtentReportHelper.startReporter(context);
