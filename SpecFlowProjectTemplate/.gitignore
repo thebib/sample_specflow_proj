@@ -242,3 +242,5 @@ _Pvt_Extensions
 # SpecFlow generated files
 *.feature.cs
 *.feature.vb
+
+.idea/
